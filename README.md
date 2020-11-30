@@ -1,2 +1,2 @@
 # JavaScript
-learning javascipt
+learning basic javascipt
